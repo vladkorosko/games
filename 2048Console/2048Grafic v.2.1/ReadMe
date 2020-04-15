@@ -1,0 +1,3 @@
+2048 game with grafic library SFML in C++. 
+Works only new game and exit.
+Control: WASD + arrows, esc for exit.
